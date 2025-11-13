@@ -40,8 +40,6 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "products",
     "django_celery_results",
-    "rest_framework",
-    "rest_framework_simplejwt",
 ]
 # REST_FRAMEWORK = {
 #     "DEFAULT_AUTHENTICATION_CLASSES": (
